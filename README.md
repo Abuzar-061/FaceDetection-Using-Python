@@ -6,7 +6,7 @@ This project demonstrates real-time face detection using OpenCV, a popular compu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/real-time-face-detection.git
+    git clone https://github.com/Abuzar-061/FaceDetection-Using-Python.git
     ```
 
 2. Install the required Python dependencies:
