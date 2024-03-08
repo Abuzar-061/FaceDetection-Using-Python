@@ -27,6 +27,10 @@ This project demonstrates real-time face detection using OpenCV, a popular compu
 
 3. To terminate the program, press the "a" key.
 
+## RESULT
+
+![Python_Face_Detection_Result](./FACEDetection.png "FaceDetection")
+
 ## Acknowledgements
 
 This project utilizes the following resources:
